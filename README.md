@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Kartikeya!
 
-<!--
-**Kartikeya0904/Kartikeya0904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 CSE Student  
+- 💻 Skilled in **Git, GitHub, Java, DSA, Machine Learning, Deep Learning, Natural Language Processing, Web Development**  
+- 🌱 Interested in **Open Source & Development | Creating new Interfaces | Developing new Projects.**  
+- 🚀 Exploring **Web Development | Cloud | AI | DevOps |**  
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- Languages: Java, Python, JavaScript 
+- Tools: Git, GitHub, VS Code , Jupyter Notebook 
+- Databases: MySQL, MongoDB  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+- 📧 Email: kartikeya3704@gmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/kartikeya-kothapally/)  
+- 🖥️ [Portfolio](https://portfolio-fawn-five-nlstcjjsih.vercel.app/)
+
+![Kartikeya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kartikeya0904&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikeya0904&layout=compact&theme=tokyonight)
+
